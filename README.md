@@ -24,9 +24,7 @@
 <br/>
 <br/>
 
----
-
-<b style="font-size: 20px">Tech Stack</b>
+<h2>Tech Stack</h2>
 
 <b>주로 사용하는 기술들이에요</b>
 
