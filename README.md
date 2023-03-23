@@ -10,7 +10,23 @@
 </a>
 <br/>
 <br/>
-<h2>Tech Stack</h2>
+
+안녕하세요!<br/>
+백엔드 엔지니어 박종우입니다.<br/><br/>
+
+어려운 문제를 해결하고
+
+더 나은 방법을 찾고
+
+함께 하는 사람들과 
+
+그렇게 성장하는 개발자가 되기를 원해요
+<br/>
+<br/>
+
+---
+
+<b style="font-size: 20px">Tech Stack</b>
 
 <b>주로 사용하는 기술들이에요</b>
 
@@ -40,22 +56,6 @@
 <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white">
 <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white">
 <br/><br/>
-
-<br/>
-<p align="center">
-안녕하세요!<br/>
-백엔드 엔지니어 박종우입니다.<br/><br/>
-
-어려운 문제를 해결하고
-
-더 나은 방법을 찾고
-
-함께 하는 사람들과 
-
-그렇게 성장하는 개발자가 되기를 원해요
-<br/>
-<br/>
-</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SKAIBlue&layout=compact)](https://github.com/SKAIBlue)
 
